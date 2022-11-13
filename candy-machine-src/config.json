@@ -1,5 +1,5 @@
 {
-  "price": 1,
+  "price": 0,
   "number": 10,
   "gatekeeper": {
     "gatekeeperNetwork": "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
@@ -11,10 +11,10 @@
       "share": 100
     }
   ],
-  "solTreasuryAccount": "AczNXmorzrH8132jCgZzWPSZfRETu2w8Pf1SfLYpSsKH",
-  "splTokenAccount": null,
-  "splToken": null,
-  "goLiveDate": "2022-11-14T07:00:00+00:00",
+  "solTreasuryAccount": null,
+  "splTokenAccount": "6yzdi82Ysq7FjgR6tGK3Qr3xsxP5FaN675dtrRkapoXX",
+  "splToken": 1,
+  "goLiveDate": "2022-11-13T20:12:06.486893+00:00",
   "endSettings": null,
   "whitelistMintSettings": {
     "mode": "burnEveryTime",
